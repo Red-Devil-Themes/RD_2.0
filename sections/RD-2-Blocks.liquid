@@ -23,6 +23,14 @@
     background-repeat: no-repeat;
   }
 
+  .section-{{ section.id }} .block-item:nth-child(odd) {
+    background-color: red;
+  }
+
+  .section-{{ section.id }} .block-item:nth-child(even) {
+    background-color: yellow;
+  }
+
   /* Als een achtergrondafbeelding aanwezig is */
   {%- for block in section.blocks -%}
     .section-{{ section.id }} .block-item-{{ block.id }} {
