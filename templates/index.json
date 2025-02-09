@@ -1,0 +1,117 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "rd_2_blocks_e8kUAB": {
+      "type": "RD-2-Blocks",
+      "blocks": {
+        "block_MG3gV4": {
+          "type": "block",
+          "settings": {
+            "background_color": "#693838",
+            "subheading": "Your Subheading Here",
+            "subheading_font_size": 18,
+            "subheading_font_weight": "300",
+            "subheading_letter_spacing": 0.2,
+            "subheading_padding_top": 0,
+            "subheading_padding_bottom": 0,
+            "subheading_color": "#ffffff",
+            "subheading_text_transform": "none",
+            "subheading_text_alignment": "left",
+            "heading": "Your Heading Here",
+            "heading_font_size": 24,
+            "heading_font_weight": "300",
+            "heading_letter_spacing": 0.2,
+            "heading_padding_top": 0,
+            "heading_padding_bottom": 0,
+            "heading_color": "#ffffff",
+            "heading_text_transform": "none",
+            "heading_text_alignment": "left",
+            "rich_text": "<p>Your rich text here</p>",
+            "rich_text_font_size": 16,
+            "rich_text_font_weight": "300",
+            "rich_text_padding_top": 0,
+            "rich_text_padding_bottom": 0,
+            "rich_text_color": "#ffffff",
+            "rich_text_text_alignment": "left",
+            "button_text": "Shop Hier",
+            "button_link": "",
+            "button_text_color": "#ffffff",
+            "button_background_color": "transparent",
+            "button_border_color": "#ffffff",
+            "button_font_size": 16,
+            "button_font_weight": "300",
+            "button_letter_spacing": 0.2,
+            "button_padding_top": 10,
+            "button_padding_bottom": 10,
+            "button_text_transform": "none",
+            "button_width": 50
+          }
+        },
+        "block_aDVtQk": {
+          "type": "block",
+          "settings": {
+            "background_color": "#083c13",
+            "subheading": "Your Subheading Here",
+            "subheading_font_size": 18,
+            "subheading_font_weight": "300",
+            "subheading_letter_spacing": 0.2,
+            "subheading_padding_top": 0,
+            "subheading_padding_bottom": 0,
+            "subheading_color": "#ffffff",
+            "subheading_text_transform": "none",
+            "subheading_text_alignment": "left",
+            "heading": "Your Heading Here",
+            "heading_font_size": 24,
+            "heading_font_weight": "300",
+            "heading_letter_spacing": 0.2,
+            "heading_padding_top": 0,
+            "heading_padding_bottom": 0,
+            "heading_color": "#ffffff",
+            "heading_text_transform": "none",
+            "heading_text_alignment": "left",
+            "rich_text": "<p>Your rich text here</p>",
+            "rich_text_font_size": 16,
+            "rich_text_font_weight": "300",
+            "rich_text_padding_top": 0,
+            "rich_text_padding_bottom": 0,
+            "rich_text_color": "#ffffff",
+            "rich_text_text_alignment": "left",
+            "button_text": "Shop Hier",
+            "button_link": "",
+            "button_text_color": "#ffffff",
+            "button_background_color": "transparent",
+            "button_border_color": "#ffffff",
+            "button_font_size": 16,
+            "button_font_weight": "300",
+            "button_letter_spacing": 0.2,
+            "button_padding_top": 10,
+            "button_padding_bottom": 10,
+            "button_text_transform": "none",
+            "button_width": 50
+          }
+        }
+      },
+      "block_order": [
+        "block_MG3gV4",
+        "block_aDVtQk"
+      ],
+      "settings": {
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "color_scheme": "light"
+      }
+    }
+  },
+  "order": [
+    "rd_2_blocks_e8kUAB"
+  ]
+}
